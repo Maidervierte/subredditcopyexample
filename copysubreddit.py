@@ -1,7 +1,6 @@
 import praw
 import re
 import time
-from googletrans import Translator
 from datetime import datetime
 
 reddit = praw.Reddit(
